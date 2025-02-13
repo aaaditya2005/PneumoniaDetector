@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+static/uploads/
+.DS_Store
+*.pyc
+model/v2.h5  # If it's too large, keep it on cloud storage
